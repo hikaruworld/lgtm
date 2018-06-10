@@ -23,6 +23,8 @@ $ lgtm rand
 
 なお、以下の環境変数を設定してください。
 
+| 変数 | 意味 |
+|-------------------|----------------------|
 | LGTM_GITHUB_TOKEN | リポジトリへのアクセスTOKEN |
 | LGTM_GITHUB_OWNER | リポジトリ所有者(このリポジトリであれば `hikaruworld` ) |
 | LGTM_GITHUB_REPO | 画像が格納されているリポジトリ名 |
